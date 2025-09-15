@@ -1,7 +1,17 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 15430c32eee3b42a24e8373cb5e18202aab46262
-  Commits: 1
+- hero-path
+  SHA: 2bd2a25e241aaed29d0ec68788e531a60fb51e55
+  Commits: 5
   Recent commits:
+    2bd2a25 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T15:52:19-04:00 | Summarize hero path in README.md
+    2365f96 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T15:47:19-04:00 | added how character eliminates dragon and wins lifetime of gold
+    005c441 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T15:46:23-04:00 | added how the character picks up sword and fights dragon
+    1b76d9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:06:57Z | Auto-update branch-info.txt
+    15430c3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-15T15:06:46-04:00 | Initial commit
+- main
+  SHA: 1b76d9a2ea87f29ba7a544abecd39efaabd97507
+  Commits: 2
+  Recent commits:
+    1b76d9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:06:57Z | Auto-update branch-info.txt
     15430c3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-15T15:06:46-04:00 | Initial commit
