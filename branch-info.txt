@@ -10,14 +10,14 @@ Branches in this repo (with details):
     1b76d9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:06:57Z | Auto-update branch-info.txt
     15430c3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-15T15:06:46-04:00 | Initial commit
 - main
-  SHA: 3cab3dfa37f834e85b0ebbe5c076c2639177cda1
-  Commits: 8
+  SHA: e5054c13d6c645d6e94b1f18b7d9f3866a02e0ca
+  Commits: 13
   Recent commits:
+    e5054c1 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T21:45:22-04:00 | Resolved conflict and added both descriptions of each path
+    0eb69c4 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T01:26:55Z | Auto-update branch-info.txt
     3cab3df | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T21:26:16-04:00 | Merge branch 'villain-path'
     088b4a2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T01:23:38Z | Auto-update branch-info.txt
     fa1c3ee | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:22:25Z | Added to villain-path description
-    c62e49e | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:20:51Z | Added how squirrel kills character
-    254376a | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:19:35Z | Added how character accepts duel with squirrel
 - villain-path
   SHA: fa1c3eed1fa9ff3a94cafe921cb5069e5bd48d4f
   Commits: 6
