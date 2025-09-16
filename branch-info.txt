@@ -1,7 +1,29 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 15430c32eee3b42a24e8373cb5e18202aab46262
-  Commits: 1
+- hero-path
+  SHA: 2bd2a25e241aaed29d0ec68788e531a60fb51e55
+  Commits: 5
   Recent commits:
+    2bd2a25 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T15:52:19-04:00 | Summarize hero path in README.md
+    2365f96 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T15:47:19-04:00 | added how character eliminates dragon and wins lifetime of gold
+    005c441 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T15:46:23-04:00 | added how the character picks up sword and fights dragon
+    1b76d9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:06:57Z | Auto-update branch-info.txt
     15430c3 | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-15T15:06:46-04:00 | Initial commit
+- main
+  SHA: 3cab3dfa37f834e85b0ebbe5c076c2639177cda1
+  Commits: 8
+  Recent commits:
+    3cab3df | Author: Miles Padot <155395178+mpadot@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com> | Date: 2025-09-15T21:26:16-04:00 | Merge branch 'villain-path'
+    088b4a2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T01:23:38Z | Auto-update branch-info.txt
+    fa1c3ee | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:22:25Z | Added to villain-path description
+    c62e49e | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:20:51Z | Added how squirrel kills character
+    254376a | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:19:35Z | Added how character accepts duel with squirrel
+- villain-path
+  SHA: fa1c3eed1fa9ff3a94cafe921cb5069e5bd48d4f
+  Commits: 6
+  Recent commits:
+    fa1c3ee | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:22:25Z | Added to villain-path description
+    c62e49e | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:20:51Z | Added how squirrel kills character
+    254376a | Author: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Committer: Miles Padot <155395178+mpadot@users.noreply.github.com@users.noreply.github.com> | Date: 2025-09-16T01:19:35Z | Added how character accepts duel with squirrel
+    7344451 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:57:19Z | Auto-update branch-info.txt
+    1b76d9a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-15T19:06:57Z | Auto-update branch-info.txt

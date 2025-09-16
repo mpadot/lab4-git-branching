@@ -15,8 +15,10 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
+
 - `hero-path`: _[added how character picks up sword, kills dragon, and wins lifetime worth of gold]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _[Squirrel kills character]_
+
 
 ## Final Checklist
 
